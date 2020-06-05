@@ -5,7 +5,7 @@
   "main": "Disaster Simulator",
   "scripts": {
     "test": "echo \"No test specified\"",
-    "start": "node index.htm"
+    "start": "npx http-server"
   },
   "contributors": [
     "Brennien Coker <harukiblue@gmail.com>"
