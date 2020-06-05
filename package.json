@@ -1,0 +1,16 @@
+{
+  "name": "disaster-simulator",
+  "version": "0.1.0",
+  "description": "Run a year by year disaster simulation",
+  "main": "Disaster Simulator",
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "start": "node index.htm"
+  },
+  "contributors": [
+    "Brennien Coker <harukiblue@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+  }
+}
